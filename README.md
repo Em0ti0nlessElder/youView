@@ -7,9 +7,9 @@ Instructions:
 
 2. Click on youView.html. This should download a file.
 
-3. Click on the 3 dots on the top right of your screen, open bookmarks, and click on bookmarks manager.
+3. Click on the 3 dots on the top right of your screen, open Bookmarks, and click on Bookmark manager.
 
-4. On bookmark manager, click on the 3 dots on the top right and click import bookmarks.
+4. On Bookmark manager, click on the 3 dots on the top right and click Import bookmarks.
 
 5. Select youView.html from your files. This will import the unblocker.
 

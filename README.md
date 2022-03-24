@@ -1,5 +1,6 @@
 # youView
 A custom script to unblock any YouTube video.
+This is a bookmarklet. 
 
 Instructions:
 

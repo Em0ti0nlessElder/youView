@@ -18,4 +18,4 @@ Instructions:
 
 7. Click the bookmark you've just imported then paste in the link of the YouTube video you desire.
 
-8. If it does not work, this doesn't mean it's broken. Some sites may not work. I recommend using Google.com.
+Note: If it does not work, this doesn't mean it's broken. Some sites may not work. I recommend using Google.com.
